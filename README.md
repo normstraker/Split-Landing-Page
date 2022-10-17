@@ -1,5 +1,7 @@
 # Split Landing Page
 
+https://normstraker.github.io/Split-Landing-Page/
+
 - Two photos side by side expand and contract with mouseenter/mouseleave
 
 ## CSS
